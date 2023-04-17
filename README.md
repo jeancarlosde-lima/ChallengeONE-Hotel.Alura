@@ -41,8 +41,7 @@
 
 ### Este é o repositório base do nosso projeto, nele você encontrará:
 #### 🔹 src/views: pasta com toda a interface gráfica das telas necessárias para desenvolver o programa;
-#### 🔹 src/imagens: pasta com imagens que você pode utilizar em seu projeto. Sinta-se a vontade para utilizar outras, caso deseje.
-</br>
+
 
 ## ⬇️ Download
 
@@ -59,9 +58,7 @@
 2 - Após ter o repositório "forkado" para sua conta, verifica se a url da página é a do repositório da sua conta.
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173165925-5f1c14ec-3f6c-4a92-b59e-835499f15581.png">
-</p></br>
-
+  
 3 - Clique na opção <strong>Code</strong>. Ele apresentará três formas para instalar o repositório em sua máquina, e destacamos duas:
 
 <p align="center" >
@@ -72,9 +69,7 @@
 
 1 - Para clonar, basta copiar a <em>url</em> destacada na imagem e localizada logo abaixo do HTTPS, criar uma pasta em seu computador, abrir o <em>cmd</em> ou o <em>git bash</em> dentro dessa pasta e em seguida insira o comando <strong>git clone</strong> e com o botão direito do mouse dentro do terminal clicar na opção <strong>Paste</strong> para colar a <em>url</em> e dar <em>Enter</em>. 
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173166777-82027ee7-cb89-48da-ab1c-3ef2397f6a9f.png">
-</p></br>
+<p align="center" 
 
 2 - A segunda opção é baixar o código em um pacote <strong>"zipado"</strong> e extrair a pasta para o seu computador. 
 </br></br>
@@ -127,14 +122,12 @@ Para instalar, você precisa baixar o pacote através desse link:
 🔹 [Link para o JCalendar](https://toedter.com/jcalendar/)
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169592420-7ea798d4-b7d2-4fd6-a03c-75f0fbc2e4bc.png">
-</p>
+    
 
 A próxima etapa será extrair os arquivos da pasta <strong>lib</strong> para uma pasta local e importar os arquivos para o Eclipse. 
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173167366-664a8876-a5c9-45d1-880d-650fbd6f8b07.png">     
-</p>
+    
 
 Arquivos da pasta <strong>lib</strong>:
 <p align="center" >
@@ -144,28 +137,23 @@ Arquivos da pasta <strong>lib</strong>:
 Clique com o botão direito do mouse sobre o projeto localizado no <strong>Package Explorer</strong> e escolha a opção <em>Build Path</em> e <em>Configure Build Path</em>.
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173167991-44b111ca-c2d6-4d83-b225-33eb2657448f.png">
-</p>
+   
 
 O projeto estará com um aviso de erro, indicando que não existe a rota da biblioteca em seu computador. Clique em <em>Libraries</em>, em seguida em <em>Classpath</em>
 selecione o arquivo do JCalendar, escolha a opção <em>Remove</em> e <em>Apply and Close</em>.
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173167817-ddbdedc5-c4a6-4f6d-bd86-f86a153d6b88.png">
-</p>
+   
 
 Para importar o <strong>Jcalendar</strong> do seu computador, após ter "extraído" os arquivos do download, clique em <em>Classpath</em> e depois em <em>Add External JARS</em> adicione um a um e clique em <em>Apply and Close</em>.
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/169596029-a9fa21ef-8d90-45a6-8aa2-be2d911d4074.png">
-</p>
+    
 
 Assim, o projeto deve conter os seguintes arquivos após as importações:
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173168583-f6352510-d639-40ef-8339-c161688e78a3.png">
-</p>
-
+     
 
 ## 🚧 Projeto
 
