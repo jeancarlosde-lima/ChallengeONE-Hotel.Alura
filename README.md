@@ -265,6 +265,6 @@ Clique na opção para aceitar os Termos de Uso, e para concluir clique em <em>F
 
 
 
-💙 <strong>Alura Latam</strong></br>
+<strong>Jean Lima</strong></br>
 <a href="https://www.linkedin.com/in/jeancolima/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
